@@ -1,4 +1,4 @@
-![Cover Me](./Img/github_banner.png)
+<img src="./Img/github_banner.png" width="400px"/>
 
 # I am "San Bin Hoque", Hey
 
