@@ -6,7 +6,7 @@ I am a Student at Computer Science. My Passion In Web 2.
 
 ### 🤵🏻‍♂️About Me
 
-Hello! I'm San Bin Hoque, a front-end and back-end learner.I'm proficient <br/> in using JavaScript, React, and other front-end technologies to create front-end projects. I'm currently  <br/> Working In back-end development. I have worked on creating many static and  <br/> dynamic web pages. Such as Portfolio, E-Commerce, ChatBot, Messaging app, Landing Page Etc.
+Hello! I'm San Bin Hoque, a front-end and back-end learner.I'm proficient <br/> in using JavaScript, React, and other front-end technologies to create front-end <br/>  projects. I'm currently  Working In back-end development. I have worked <br/>  on creating many static and dynamic web pages. Such as Portfolio, E-Commerce, ChatBot, Messaging app, Landing Page Etc.
 
 ### 📘Education
 
