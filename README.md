@@ -1,16 +1,34 @@
-### Hi there 👋
+![Cover Me](./Img/github_banner.png)
 
-<!--
-**atesanepti/atesanepti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am "San Bin Hoque", Hey
 
-Here are some ideas to get you started:
+I am a Student at Computer Science. My Passion In Web 2.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤵🏻‍♂️About Me
+
+Hello! I'm San Bin Hoque, a front-end and back-end learner.I'm proficient in using JavaScript, React, and other front-end technologies to create front-end projects. I'm currently Working In back-end development.
+
+### 📘Education
+
+I'm a student at Computer Science and Engineering in Feni Polytechnic Institute. My Graduation is going on there.
+
+- Diploma (Running)
+
+### 💻Skills In     
+- HTML_5
+- CSS_3
+- Javascript_ES6
+- React JS
+- Bootstrap
+- Tailwind CSS
+- SASS
+
+### 🗣️Communication Languages
+- English (Intermediate)
+- Bangla (Advance)
+- Hindi (Communicative)
+
+
+<hr/>
+Thanks For Consideration        
+<hr/>
