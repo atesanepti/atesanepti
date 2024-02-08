@@ -1,4 +1,4 @@
-<img src="./Img/github_banner.png"/>
+<img src="./Img/github_banner.jpg"/>
 
 # I am "San Bin Hoque", Hey
 I am a Student at Computer Science. My Passion In Web 2.
