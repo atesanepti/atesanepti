@@ -19,6 +19,9 @@ I'm a student at Computer Science and Engineering in Feni Polytechnic Institute.
 - Bootstrap
 - Tailwind CSS
 - SASS
+- Node JS
+- Express JS
+- Mongo DB
   
 ### 🗣️Communication Languages
 - English (Intermediate)
