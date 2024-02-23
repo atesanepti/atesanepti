@@ -11,17 +11,25 @@ I'm a student at Computer Science and Engineering in Feni Polytechnic Institute.
 
 - Diploma (Running)
 
-### 💻Skills In     
-- HTML_5
-- CSS_3
-- Javascript_ES6
-- React JS
-- Bootstrap
+### I work in
+- Frontend
+- Bakcend
+  
+### Frontend Teches
+- React
 - Tailwind CSS
-- SASS
+- Bootstrap and some other CSS frameworks
+
+### Backend Teches
 - Node JS
 - Express JS
 - Mongo DB
+
+### Programming knowledge in
+- Java
+- C, C++
+- Python
+- Javascript
   
 ### 🗣️Communication Languages
 - English (Intermediate)
